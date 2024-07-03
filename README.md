@@ -1,7 +1,3 @@
 # release-test
 
-main commit  
-another change  
-prep release workflow  
-update workflow  
-now make it even  
+test for release trigger prod push
